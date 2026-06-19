@@ -15,8 +15,7 @@
 | **Sprint** | Sprint 1 |
 | **Duration** | 01-May-2026 to 14-May-2026 (10 Working Days) |
 | **Team** | Project Manager, Developer, Tester, Integrator |
-| **Total Story Points** | 62 SP |
-| **Project Board** | https://github.com/users/amitabhg/projects/1 |
+| **Total Story Points** | 62 SP 
 | **Wiki** | https://github.com/itzdilip/G-A-I-N/wiki |
 | **Sprint Excel Plan** | https://docs.google.com/spreadsheets/d/1Hz1Vgrz7WUBkN30IvBjFlHqnCp0lzEnt5dOwKZUvuL0 |
 
